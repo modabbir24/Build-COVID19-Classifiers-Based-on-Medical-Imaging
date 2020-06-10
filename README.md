@@ -1,0 +1,2 @@
+# Build-COVID19-Classifiers-Based-on-Medical-Imaging
+We Developed an advanced machine learning-based classifier that can scan chest X- rays and classify COVID19 positive cases and negative cases. In this project, we are going to explore X-ray images as doctors frequently use X- rays and CT scans to diagnose pneumonia, lung inflammation, abscesses, and/or enlarged lymph nodes and try to detect positive COVID19 cases from the given X-ray dataset.

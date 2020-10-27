@@ -63,7 +63,7 @@ From Figure 1. We have found that COVID-19 detector is obtaining approximately 9
 * Of patients that do not have COVID-19 (i.e., true negatives), we could accurately identify them only 98% of the time.
 </br>
 Refer Table 2.</br>
-On testing Model on real life data, we have found that it predicting the same level which was shown by actual level. Refer Figure 2 to check the result.
+On testing Model on real life data, we have found that it predicting the same level which was shown by actual level. Refer Figure 2 to check the result.</br>
 ### Discussion
 COVID-19 tests are currently hard to come by —there are simply not enough of them and they  cannot  be  manufactured  fast  enough,  which  is  causing  panic.  Given  that  there  are  limited COVID-19 testing kits, we need to rely on other diagnosis measures. Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use X-rays to analyze the health of a patient’s lungs. It could be possible to use X-rays to test for COVID-19 without the dedicated test kits. A drawback is that X-ray analysis requires a radiology expert and takes significant time —which is precious when people are sick around the world. Therefore, this CNN based automated model will be helpful that time.
 ### References

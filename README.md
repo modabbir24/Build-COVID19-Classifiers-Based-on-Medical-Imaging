@@ -12,8 +12,8 @@ number of images were taken from the Kaggle chest X rays
 for negative COVID images. Total number of images in each
 folder before training are as shown in table 1.</br>
 The data set is available at:
-* http://github.com - automatic!
-[GitHub](http://github.com)
+* [GitHub](https://github.com/ieee8023/covid-chestxraydataset/tree/master/images)
+* [Ministry of Health and Family Welfare](https://www.mohfw.gov.in/)
 ### Algorithm
 Some Important terminologies which are used in algorithm:
 **CNN**: A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
@@ -63,5 +63,12 @@ From Figure 1. We have found that COVID-19 detector is obtaining approximately 9
 * Of patients that do not have COVID-19 (i.e., true negatives), we could accurately identify them only 98% of the time.
 </br>
 Refer Table 2.</br>
-On testing Model on real life data, we have found that it predicting the same level which was shown by actual level. ReferFigure 2 to check the result.
-### 
+On testing Model on real life data, we have found that it predicting the same level which was shown by actual level. Refer Figure 2 to check the result.
+### Discussion
+COVID-19 tests are currently hard to come by —there are simply not enough of them and they  cannot  be  manufactured  fast  enough,  which  is  causing  panic.  Given  that  there  are  limited COVID-19 testing kits, we need to rely on other diagnosis measures. Since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use X-rays to analyze the health of a patient’s lungs. It could be possible to use X-rays to test for COVID-19 without the dedicated test kits. A drawback is that X-ray analysis requires a radiology expert and takes significant time —which is precious when people are sick around the world. Therefore, this CNN based automated model will be helpful that time.
+### References
+1. S Das, Prediction of covid-19 disease progression in india : Under the effect of national lock- 136
+down (2020). 137
+2. C Hill, SciPy. (Cambridge University Press), (2016). 138
+3. M Chinazzi, et al., The effect of travel restrictions on the spread of the 2019 novel coronavirus 139
+(covid-19) outbreak. Science 368, 395–400 (2020). 

@@ -95,5 +95,5 @@ Test Accuracy (CNN) 96.00 | 115
 ![Fig 1. Result after 10 epochs of validation steps of 2 and batch size of 32.](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging/blob/master/Images/Fig2_new.png)
 **Fig 1. Result after 10 epochs of validation steps of 2 and batch size of 32.**
 
-![Fig 2. Prediction by Model.](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging/blob/master/Images/Fig2.png)
+![Fig 2. Prediction by Model.](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging/blob/master/Images/Fig2.png)</br>
  **Fig 2. Prediction by Model.**

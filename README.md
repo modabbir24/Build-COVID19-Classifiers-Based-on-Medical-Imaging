@@ -6,8 +6,14 @@
 Corona virus disease (COVID-19) is an infectious disease caused by a newly discovered corona virus.Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment. Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
 The best way to prevent and slow down transmission is be well informed about the COVID- 19 virus, the disease it causes and how it spreads. Protect our self and others from infection by washing hands or using an alcohol based rub frequently and not touching your face. The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that we also practice respiratory etiquette (for example, by coughing into a flexed elbow). At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments.
 Artificial intelligence applied to the medical domain can have very real consequences.
-### Dataset
-We have gathered all the images from the positive COVID images.We ended up with 140 images of positive COVID X rays with view-‘PA’ out of 350 total images and same 140 number of images were taken from the Kaggle chest X rays for negative COVID images. Total number of images in each folder before training are as shownin table 1.
+### DatasetWe have gathered all the images from the positive COVID
+We have gathered all the images from the positive COVID images.We ended up with 140 images of positive COVID X26 rays with view-’PA’ out of 350 total images and same 140
+number of images were taken from the Kaggle chest X rays
+for negative COVID images. Total number of images in each
+folder before training are as shown in table 1.</br>
+The data set is available at:
+* http://github.com - automatic!
+[GitHub](http://github.com)
 ### Algorithm
 Some Important terminologies which are used in algorithm:
 **CNN**: A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
@@ -51,4 +57,11 @@ data via data augmentation object.
 * For evaluation, first make predictions on the testing set 
 and grab the prediction indices, then generate and print 
 out a confusion matrix report and save it to disk.
-
+### Results
+From Figure 1. We have found that COVID-19 detector is obtaining approximately 96% accuracy  on  our  test  dataset,  alongwith  100%  sensitivity  and  98%  specificity  implying that:
+* Of  patients  that  do  have  COVID-19  (i.e.,  true  positives),  we  could  accurately identify them 100% of time.
+* Of patients that do not have COVID-19 (i.e., true negatives), we could accurately identify them only 98% of the time.
+</br>
+Refer Table 2.</br>
+On testing Model on real life data, we have found that it predicting the same level which was shown by actual level. ReferFigure 2 to check the result.
+### 

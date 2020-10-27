@@ -6,7 +6,7 @@
 Corona virus disease (COVID-19) is an infectious disease caused by a newly discovered corona virus.Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment. Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.
 The best way to prevent and slow down transmission is be well informed about the COVID- 19 virus, the disease it causes and how it spreads. Protect our self and others from infection by washing hands or using an alcohol based rub frequently and not touching your face. The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that we also practice respiratory etiquette (for example, by coughing into a flexed elbow). At this time, there are no specific vaccines or treatments for COVID-19. However, there are many ongoing clinical trials evaluating potential treatments.
 Artificial intelligence applied to the medical domain can have very real consequences.
-### DatasetWe have gathered all the images from the positive COVID
+### Dataset
 We have gathered all the images from the positive COVID images.We ended up with 140 images of positive COVID X26 rays with view-’PA’ out of 350 total images and same 140
 number of images were taken from the Kaggle chest X rays
 for negative COVID images. Total number of images in each

@@ -16,23 +16,23 @@ The data set is available at:
 * [Ministry of Health and Family Welfare](https://www.mohfw.gov.in/)
 ### Algorithm
 Some Important terminologies which are used in algorithm:
-**CNN**: A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
-**Relu**: The output of ReLu is the maximum value between zero and the input value. An output is equal to zero when theinput value is negative and the input value when the input is positive.
-**Max pooling layer**: Max pooling is a pooling operation that selects the maximum element from the region of the feature map covered by the filter. 
-**Convolutional layer**: a convolutional neural network is  a class of deep neural networks, most commonly applied to 
+* **CNN**: A convolutional neural network (CNN) is a type of artificial neural network used in image recognition and processing that is specifically designed to process pixel data.
+* **Relu**: The output of ReLu is the maximum value between zero and the input value. An output is equal to zero when theinput value is negative and the input value when the input is positive.
+* **Max pooling layer**: Max pooling is a pooling operation that selects the maximum element from the region of the feature map covered by the filter. 
+* **Convolutional layer**: a convolutional neural network is  a class of deep neural networks, most commonly applied to 
 analyzing visual imagery. 
 Binary Cross-Entropy Loss: It is a Sigmoid activation 
 plus a Cross-Entropy loss. Unlike Softmax loss it is inde- 
 pendent for each vector component (class), meaning that the 
 loss computed for every CNN output vector component is not 
 affected by other component values. 
-**Adam optimizer**: Adam is an optimization algorithm 
+* **Adam optimizer**: Adam is an optimization algorithm 
 that can be used instead of the classical stochastic gradient 
 descent procedure to update network weights iterative based 
 in training data. 
-**Keras Fit Generator**: It in python can be used to train 
+* **Keras Fit Generator**: It in python can be used to train 
 our machine learning and deep learning models. 
-**Confusion Matrix**: A confusion matrix is a table that 
+* **Confusion Matrix**: A confusion matrix is a table that 
 is often used to describe the performance of a classification 
 model (or "classifier") on a set of test data for which the true 
 values are known. 

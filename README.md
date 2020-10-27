@@ -36,7 +36,7 @@ our machine learning and deep learning models.
 is often used to describe the performance of a classification 
 model (or "classifier") on a set of test data for which the true 
 values are known. </br>
-Steps involved in Algorithm: 
+**Steps involved in Algorithm:** 
 * Pre-process the given input X ray images and convert 
 them to RGB channel ordering to make them ready for 
 our CNN. 

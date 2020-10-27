@@ -88,8 +88,8 @@ False-Negative images| 25
 **Table 2. Accuracy of Model**
 Data Category | Accuracy in %
 ------------ | -------------
-1. Training Accuracy (CNN) | 95.22
-2. Test Accuracy (CNN) 96.00 | 115
+Training Accuracy (CNN) | 95.22
+Test Accuracy (CNN) 96.00 | 115
 
 ### Images
 ![Fig 1. Result after 10 epochs of validation steps of 2 and batch size of 32.](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging/blob/master/Images/Fig2_new.png)

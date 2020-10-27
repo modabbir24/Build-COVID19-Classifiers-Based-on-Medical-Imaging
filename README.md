@@ -75,3 +75,23 @@ down (2020). 137
 2. C Hill, SciPy. (Cambridge University Press), (2016). 138
 3. M Chinazzi, et al., The effect of travel restrictions on the spread of the 2019 novel coronavirus 139
 (covid-19) outbreak. Science 368, 395–400 (2020). 
+
+### Tables
+**Table 1. Number of images in each folder before training**
+Image Type | Count
+------------ | -------------
+True-Positive images | 115
+True-Negative images | 115
+False-Positive images| 25
+False-Negative images| 25
+
+**Table 2. Accuracy of Model**
+Data Category | Accuracy in %
+------------ | -------------
+1. Training Accuracy (CNN) | 95.22
+2. Test Accuracy (CNN) 96.00 | 115
+
+### Images
+![Fig 1. Result after 10 epochs of validation steps of 2 and batch size of 32.](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging/blob/master/Images/Fig2_new.png)
+
+![Fig 2. Prediction by Model.](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging/blob/master/Images/Fig2.png)

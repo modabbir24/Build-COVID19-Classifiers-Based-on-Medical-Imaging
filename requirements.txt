@@ -14,4 +14,3 @@ Keras>=2.2.4
 Keras-Applications>=1.0.7
 Keras-Preprocessing>=1.0.9
 requests==2.21.0
-scipy==1.2.1

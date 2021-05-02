@@ -4,7 +4,7 @@ from keras_preprocessing import image
 from keras.models import load_model
 import numpy as np
 
-import numpy as np
+import tenserflow as tf
 import matplotlib.pyplot as plt
 import keras
 from keras.layers import *

@@ -1,11 +1,14 @@
 Flask>=1.0.2
 h5py==3.1.0
-idna>=2.5
+gunicorn==19.9.0
+MarkupSafe==1.1.1
+Werkzeug==0.15.5
 itsdangerous>=1.1.0
 Jinja2>=2.10.1
 Keras>=2.2.4
 Keras-Applications>=1.0.7
 Keras-Preprocessing>=1.0.9
-tensorflow==2.5.0rc0
-numpy==1.19.2
+tensorflow==2.5.0rc1
 requests>=2.21.0
+matplotlib>=1.4.3
+pandas>=0.19
